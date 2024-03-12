@@ -1,1 +1,1 @@
-# Custom_RAG_LLM
+Implementation of RAG using Langchain and HuggingFace
